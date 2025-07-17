@@ -1,0 +1,8 @@
+LeafClassifier1 - LeafClassifier with 15 classes of leafvillage made from scratch (Early Stopping)
+LeafClassifier1b - LeafClassifier with 15 classes of leafvillage made from scratch (Early Stopping and Reduce LR on Plateau)
+LeafClassifier1c - LeafClassifier with 5 classes of leafvillage made from scratch (Early Stopping and Reduce LR on Plateau)
+LeafClassifier2 - LeafClassifier with 15 classes (MobileNetV2(Freezed) + one additional layer)
+LeafClassifier2b - LeafClassifier with 5 classes (MobileNetV2(Freezed) + one additional layer)
+LeafClassifier2c - LeafClassifier with 5 classes (MobileNetV2(UnFreezed))
+LeafClassifier2d - LeafClassifier with 5 classes (MobileNetV2(UnFreezed) + one additional layer)
+LeafClassifier3 - LeafClassifier with 5 classes (ResNet50V2(Freezed) + one additional layer)
